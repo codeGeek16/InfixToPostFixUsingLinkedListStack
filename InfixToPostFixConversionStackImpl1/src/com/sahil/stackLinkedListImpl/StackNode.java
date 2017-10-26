@@ -2,8 +2,6 @@ package com.sahil.stackLinkedListImpl;
 
 import java.util.Scanner;
 
-import com.sahil.stackPojo.Data;
-
 public class StackNode {
 
 	String operand;
